@@ -10,5 +10,5 @@ A fun and simple project that creates a cheerful Smiley Face using only HTML and
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smiley-face.git
+   git clone https://github.com/sinhasupriya3/SmileyFace.git
 
